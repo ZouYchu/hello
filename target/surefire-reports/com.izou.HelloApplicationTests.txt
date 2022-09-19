@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.izou.HelloApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.311 s - in com.izou.HelloApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.07 s - in com.izou.HelloApplicationTests
